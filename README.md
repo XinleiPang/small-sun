@@ -1,4 +1,3 @@
-# small-sun
-I like her
-I ready write code for mysql orm and cache,
-because company need
+这是我自己写的一份游戏服务器的代码
+虽然可能不完善
+但是这可以帮助新手理解游戏服务器的基本结构
